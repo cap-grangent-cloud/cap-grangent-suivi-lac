@@ -25,6 +25,7 @@ jobs:
           python-version: '3.12'
       - name: Collecter le niveau du lac
         run: python collect.py
+     
       - name: Enregistrer les releves
         run: |
           git config user.name "github-actions[bot]"
@@ -34,5 +35,4 @@ jobs:
             git commit -m "Mise a jour niveau du lac"
             git push
           fi
-            git push
-          fi
+  
