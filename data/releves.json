@@ -25,5 +25,14 @@
     "date_obs": "2026-11-09T08:15:00Z",
     "station": "K060001001",
     "qualification": "Non qualifiée"
+  },
+  {
+    "date": "2026-11-10",
+    "level": 416.39,
+    "origin": "Automatique",
+    "note": "Hub’Eau/Vigicrues — référence NGF non confirmée ; donnée brute non qualifiée",
+    "date_obs": "2026-11-10T08:05:00Z",
+    "station": "K060001001",
+    "qualification": "Non qualifiée"
   }
 ]
